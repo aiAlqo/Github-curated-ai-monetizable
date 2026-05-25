@@ -1,0 +1,31 @@
+repo,include,category,monetization_idea
+ollama/ollama,yes,Local Models,Run local LLMs on your hardware and offer a private AI API to businesses worried about data leaks — charge monthly per seat.
+ggerganov/llama.cpp,yes,Local Models,Package on-premise LLM inference for legal and healthcare firms that cannot send data to the cloud — license per deployment.
+mudler/LocalAI,yes,Local Models,Offer a drop-in OpenAI-compatible private API to data-sensitive organisations — monthly subscription per team.
+vllm-project/vllm,yes,LLM Tools,Run a high-throughput LLM inference API and undercut OpenAI pricing for startups that need scale — charge per million tokens.
+BerriAI/litellm,yes,LLM Tools,Build a cost-routing layer over multiple LLM providers and resell optimised inference to AI product teams — margin on token spend.
+open-webui/open-webui,yes,LLM Tools,Deploy a private ChatGPT interface for corporate teams and charge per seat for managed hosting and SSO setup.
+langchain-ai/langchain,yes,LLM Tools,Build and sell AI chatbot integrations for SMBs using LangChain pipelines — fixed project fee plus monthly retainer.
+deepset-ai/haystack,yes,LLM Tools,Create enterprise document Q&A systems and license per concurrent user or department.
+stanfordnlp/dspy,yes,LLM Tools,Build optimised LLM prompt pipelines for enterprises and sell prompt engineering as a managed service.
+pydantic/pydantic-ai,yes,AI Agents,Sell structured AI output integrations to companies replacing brittle regex parsing — charge per integration delivered.
+microsoft/autogen,yes,AI Agents,Build multi-agent automation pipelines for repetitive back-office work and sell as a managed service.
+crewAIInc/crewAI,yes,AI Agents,Assemble industry-specific agent teams (legal research, finance analysis) and sell turnkey deployments.
+mem0ai/mem0,yes,AI Agents,Add persistent memory to client chatbots and sell as a SaaS add-on billed monthly per active user.
+Significant-Gravitas/AutoGPT,yes,AI Agents,Offer autonomous task execution as a service — charge per completed task or workflow run.
+n8n-io/n8n,yes,Automation,Run an n8n automation agency: build and maintain no-code AI workflows for SMBs on a retainer.
+microsoft/playwright,yes,Automation,Offer a QA automation service for web apps using Playwright — fixed monthly fee per client project.
+unclecode/crawl4ai,yes,Automation,Sell web scraping as a service for market intelligence — tiered pricing by page volume per month.
+browser-use/browser-use,yes,Automation,Build lead generation and data extraction bots for sales teams — charge per thousand records delivered.
+AUTOMATIC1111/stable-diffusion-webui,yes,Image Generation,Run an image-as-a-service API for e-commerce product shots — charge per image or bundle credits.
+comfyanonymous/ComfyUI,yes,Image Generation,Build a specialised image-generation SaaS for a niche (real estate renders, book covers) using custom ComfyUI workflows.
+huggingface/diffusers,yes,Image Generation,Fine-tune diffusion models on brand assets and sell a model marketplace — licence per fine-tune download.
+openai/whisper,yes,Audio & Transcription,Run a pay-per-minute transcription API for podcasters and legal firms using Whisper — batch discount tiers.
+tesseract-ocr/tesseract,yes,OCR,Build an invoice and receipt processing service for accounting firms — charge per document or monthly volume.
+PaddlePaddle/PaddleOCR,yes,OCR,Offer document extraction for paper-heavy industries (insurance, logistics) — priced per page processed.
+JaidedAI/EasyOCR,yes,OCR,Build a receipt scanning and expense-tracking tool for small business owners — SaaS with free tier.
+VikParuchuri/surya,yes,OCR,Create a legal and financial document OCR pipeline with structured JSON output — sell API access by the page.
+qdrant/qdrant,yes,Search & Retrieval,Build a semantic search API for e-commerce catalogues — monthly subscription per store.
+chroma-core/chroma,yes,Search & Retrieval,Sell a RAG-powered document Q&A SaaS to law firms and consultancies — per-user monthly licence.
+meilisearch/meilisearch,yes,Search & Retrieval,Embed fast search into client web apps as a managed add-on — revenue share or flat monthly fee.
+neuml/txtai,yes,Search & Retrieval,Offer a semantic search API service for content platforms needing intelligent discovery — usage-based pricing.
