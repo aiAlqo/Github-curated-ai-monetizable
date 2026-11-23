@@ -1,6 +1,6 @@
 # Open Source AI Tools to Make Money
 
-> Last updated: 2026-11-16 · 30 projects · [How to refresh](#refresh)
+> Last updated: 2026-11-23 · 30 projects · [How to refresh](#refresh)
 
 
 A curated, auto-ranked list of open-source AI projects you can build a business on.
@@ -8,36 +8,36 @@ Ranked by GitHub stars. Updated weekly via GitHub Actions — free to run, free 
 
 | # | Project | ⭐ Stars | Category | How to Make Money |
 |---|---------|---------|----------|-------------------|
-| 1 | [n8n](https://github.com/n8n-io/n8n) | 210.6k | Automation | Run an n8n automation agency: build and maintain no-code AI workflows for SMBs on a retainer. |
-| 2 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 188.1k | AI Agents | Offer autonomous task execution as a service — charge per completed task or workflow run. |
-| 3 | [ollama](https://github.com/ollama/ollama) | 187.2k | Local Models | Run local LLMs on your hardware and offer a private AI API to businesses worried about data leaks — charge monthly per seat. |
-| 4 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 165.3k | Image Generation | Run an image-as-a-service API for e-commerce product shots — charge per image or bundle credits. |
-| 5 | [open-webui](https://github.com/open-webui/open-webui) | 158.8k | LLM Tools | Deploy a private ChatGPT interface for corporate teams and charge per seat for managed hosting and SSO setup. |
-| 6 | [langchain](https://github.com/langchain-ai/langchain) | 149.7k | LLM Tools | Build and sell AI chatbot integrations for SMBs using LangChain pipelines — fixed project fee plus monthly retainer. |
-| 7 | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 147.2k | Image Generation | Build a specialised image-generation SaaS for a niche (real estate renders |
-| 8 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | 135.3k | Local Models | Package on-premise LLM inference for legal and healthcare firms that cannot send data to the cloud — license per deployment. |
-| 9 | [browser-use](https://github.com/browser-use/browser-use) | 121.2k | Automation | Build lead generation and data extraction bots for sales teams — charge per thousand records delivered. |
-| 10 | [whisper](https://github.com/openai/whisper) | 112.8k | Audio & Transcription | Run a pay-per-minute transcription API for podcasters and legal firms using Whisper — batch discount tiers. |
-| 11 | [playwright](https://github.com/microsoft/playwright) | 100.3k | Automation | Offer a QA automation service for web apps using Playwright — fixed monthly fee per client project. |
-| 12 | [vllm](https://github.com/vllm-project/vllm) | 97.0k | LLM Tools | Run a high-throughput LLM inference API and undercut OpenAI pricing for startups that need scale — charge per million tokens. |
-| 13 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 92.8k | OCR | Offer document extraction for paper-heavy industries (insurance |
-| 14 | [crawl4ai](https://github.com/unclecode/crawl4ai) | 87.4k | Automation | Sell web scraping as a service for market intelligence — tiered pricing by page volume per month. |
-| 15 | [tesseract](https://github.com/tesseract-ocr/tesseract) | 77.5k | OCR | Build an invoice and receipt processing service for accounting firms — charge per document or monthly volume. |
-| 16 | [mem0](https://github.com/mem0ai/mem0) | 69.1k | AI Agents | Add persistent memory to client chatbots and sell as a SaaS add-on billed monthly per active user. |
-| 17 | [litellm](https://github.com/BerriAI/litellm) | 63.4k | LLM Tools | Build a cost-routing layer over multiple LLM providers and resell optimised inference to AI product teams — margin on token spend. |
-| 18 | [autogen](https://github.com/microsoft/autogen) | 61.9k | AI Agents | Build multi-agent automation pipelines for repetitive back-office work and sell as a managed service. |
-| 19 | [crewAI](https://github.com/crewAIInc/crewAI) | 61.0k | AI Agents | Assemble industry-specific agent teams (legal research |
-| 20 | [meilisearch](https://github.com/meilisearch/meilisearch) | 59.9k | Search & Retrieval | Embed fast search into client web apps as a managed add-on — revenue share or flat monthly fee. |
-| 21 | [LocalAI](https://github.com/mudler/LocalAI) | 50.4k | Local Models | Offer a drop-in OpenAI-compatible private API to data-sensitive organisations — monthly subscription per team. |
-| 22 | [dspy](https://github.com/stanfordnlp/dspy) | 39.1k | LLM Tools | Build optimised LLM prompt pipelines for enterprises and sell prompt engineering as a managed service. |
-| 23 | [qdrant](https://github.com/qdrant/qdrant) | 35.6k | Search & Retrieval | Build a semantic search API for e-commerce catalogues — monthly subscription per store. |
-| 24 | [diffusers](https://github.com/huggingface/diffusers) | 34.9k | Image Generation | Fine-tune diffusion models on brand assets and sell a model marketplace — licence per fine-tune download. |
-| 25 | [EasyOCR](https://github.com/JaidedAI/EasyOCR) | 30.1k | OCR | Build a receipt scanning and expense-tracking tool for small business owners — SaaS with free tier. |
+| 1 | [n8n](https://github.com/n8n-io/n8n) | 211.8k | Automation | Run an n8n automation agency: build and maintain no-code AI workflows for SMBs on a retainer. |
+| 2 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 188.2k | AI Agents | Offer autonomous task execution as a service — charge per completed task or workflow run. |
+| 3 | [ollama](https://github.com/ollama/ollama) | 187.9k | Local Models | Run local LLMs on your hardware and offer a private AI API to businesses worried about data leaks — charge monthly per seat. |
+| 4 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 165.4k | Image Generation | Run an image-as-a-service API for e-commerce product shots — charge per image or bundle credits. |
+| 5 | [open-webui](https://github.com/open-webui/open-webui) | 159.3k | LLM Tools | Deploy a private ChatGPT interface for corporate teams and charge per seat for managed hosting and SSO setup. |
+| 6 | [langchain](https://github.com/langchain-ai/langchain) | 149.9k | LLM Tools | Build and sell AI chatbot integrations for SMBs using LangChain pipelines — fixed project fee plus monthly retainer. |
+| 7 | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 148.3k | Image Generation | Build a specialised image-generation SaaS for a niche (real estate renders |
+| 8 | [llama.cpp](https://github.com/ggml-org/llama.cpp) | 136.1k | Local Models | Package on-premise LLM inference for legal and healthcare firms that cannot send data to the cloud — license per deployment. |
+| 9 | [browser-use](https://github.com/browser-use/browser-use) | 121.9k | Automation | Build lead generation and data extraction bots for sales teams — charge per thousand records delivered. |
+| 10 | [whisper](https://github.com/openai/whisper) | 113.3k | Audio & Transcription | Run a pay-per-minute transcription API for podcasters and legal firms using Whisper — batch discount tiers. |
+| 11 | [playwright](https://github.com/microsoft/playwright) | 100.9k | Automation | Offer a QA automation service for web apps using Playwright — fixed monthly fee per client project. |
+| 12 | [vllm](https://github.com/vllm-project/vllm) | 97.4k | LLM Tools | Run a high-throughput LLM inference API and undercut OpenAI pricing for startups that need scale — charge per million tokens. |
+| 13 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 93.1k | OCR | Offer document extraction for paper-heavy industries (insurance |
+| 14 | [crawl4ai](https://github.com/unclecode/crawl4ai) | 87.7k | Automation | Sell web scraping as a service for market intelligence — tiered pricing by page volume per month. |
+| 15 | [tesseract](https://github.com/tesseract-ocr/tesseract) | 77.6k | OCR | Build an invoice and receipt processing service for accounting firms — charge per document or monthly volume. |
+| 16 | [mem0](https://github.com/mem0ai/mem0) | 69.4k | AI Agents | Add persistent memory to client chatbots and sell as a SaaS add-on billed monthly per active user. |
+| 17 | [litellm](https://github.com/BerriAI/litellm) | 63.8k | LLM Tools | Build a cost-routing layer over multiple LLM providers and resell optimised inference to AI product teams — margin on token spend. |
+| 18 | [autogen](https://github.com/microsoft/autogen) | 62.0k | AI Agents | Build multi-agent automation pipelines for repetitive back-office work and sell as a managed service. |
+| 19 | [crewAI](https://github.com/crewAIInc/crewAI) | 61.2k | AI Agents | Assemble industry-specific agent teams (legal research |
+| 20 | [meilisearch](https://github.com/meilisearch/meilisearch) | 60.0k | Search & Retrieval | Embed fast search into client web apps as a managed add-on — revenue share or flat monthly fee. |
+| 21 | [LocalAI](https://github.com/mudler/LocalAI) | 50.5k | Local Models | Offer a drop-in OpenAI-compatible private API to data-sensitive organisations — monthly subscription per team. |
+| 22 | [dspy](https://github.com/stanfordnlp/dspy) | 39.2k | LLM Tools | Build optimised LLM prompt pipelines for enterprises and sell prompt engineering as a managed service. |
+| 23 | [qdrant](https://github.com/qdrant/qdrant) | 35.7k | Search & Retrieval | Build a semantic search API for e-commerce catalogues — monthly subscription per store. |
+| 24 | [diffusers](https://github.com/huggingface/diffusers) | 35.0k | Image Generation | Fine-tune diffusion models on brand assets and sell a model marketplace — licence per fine-tune download. |
+| 25 | [EasyOCR](https://github.com/JaidedAI/EasyOCR) | 30.2k | OCR | Build a receipt scanning and expense-tracking tool for small business owners — SaaS with free tier. |
 | 26 | [chroma](https://github.com/chroma-core/chroma) | 29.7k | Search & Retrieval | Sell a RAG-powered document Q&A SaaS to law firms and consultancies — per-user monthly licence. |
-| 27 | [haystack](https://github.com/deepset-ai/haystack) | 27.0k | LLM Tools | Create enterprise document Q&A systems and license per concurrent user or department. |
+| 27 | [haystack](https://github.com/deepset-ai/haystack) | 27.1k | LLM Tools | Create enterprise document Q&A systems and license per concurrent user or department. |
 | 28 | [surya](https://github.com/datalab-to/surya) | 21.6k | OCR | Create a legal and financial document OCR pipeline with structured JSON output — sell API access by the page. |
-| 29 | [pydantic-ai](https://github.com/pydantic/pydantic-ai) | 21.2k | AI Agents | Sell structured AI output integrations to companies replacing brittle regex parsing — charge per integration delivered. |
-| 30 | [txtai](https://github.com/neuml/txtai) | 13.5k | Search & Retrieval | Offer a semantic search API service for content platforms needing intelligent discovery — usage-based pricing. |
+| 29 | [pydantic-ai](https://github.com/pydantic/pydantic-ai) | 21.4k | AI Agents | Sell structured AI output integrations to companies replacing brittle regex parsing — charge per integration delivered. |
+| 30 | [txtai](https://github.com/neuml/txtai) | 13.7k | Search & Retrieval | Offer a semantic search API service for content platforms needing intelligent discovery — usage-based pricing. |
 
 ---
 
